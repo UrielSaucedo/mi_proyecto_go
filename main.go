@@ -1,5 +1,7 @@
 package main
 
+// algunas cosas me ayudo chatgpt a hacerlas, y me explico en el proceso, directamente le pase los parrafos del documento y los fuimos desglozando.
+
 import (
 	"fmt"
 	"mi_proyecto_go/my_package"
